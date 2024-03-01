@@ -1,8 +1,8 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-import Home from './Home'; // Import your Home component here
-import Projects from './Projects'; // Import your Projects component here
-import Contact from './Contact'; // Import your Contact component here
+import Home from './Home'; 
+import Projects from './Projects'; 
+import Contact from './Contact'; 
 
 function App() {
   return (
@@ -12,7 +12,7 @@ function App() {
           <Route exact path="/" component={Home} />
           <Route path="/projects" component={Projects} />
           <Route path="/contact" component={Contact} />
-          {/* Define other routes here */}
+         
         </Switch>
       </div>
     </Router>
