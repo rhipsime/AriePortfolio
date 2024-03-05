@@ -6,12 +6,12 @@ const Home = () => {
   const containerStyle = {
     textAlign: 'center',
     padding: '20px',
-    backgroundColor: '#ffc8dd', // Background color from your palette
+    backgroundColor: '#ffd8e7', // Background colour from my palette
   };
 
   const headingStyle = {
     fontSize: '2rem',
-    color: '#cdb4db', // Primary color from your palette
+    color: '#212529', // Colour from my palette
   };
 
   const imgStyle = {
@@ -22,12 +22,12 @@ const Home = () => {
 
   const paragraphStyle = {
     fontSize: '1.2rem',
-    color: '#bde0fe', // Secondary color from your palette
+    color: '#212529', // Color from my palette
   };
 
   return (
     <div style={containerStyle}>
-      <h1 style={headingStyle}>Your Name</h1>
+      <h1 style={headingStyle}>Arie David</h1>
       <img src="" alt="Arie David" style={imgStyle} />
       <p style={paragraphStyle}>Your brand statement or introduction</p>
       <p style={paragraphStyle}>This is my portfolio site</p>
