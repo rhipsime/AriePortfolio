@@ -9,7 +9,7 @@
       "title": "CipherCraft-PasswordGenerator",
       "deployedLink": "https://rhipsime.github.io/CipherCraft-PasswordGenerator/",
       "githubLink": "https://github.com/rhipsime/CipherCraft-PasswordGenerator",
-      "image": "project2.png"
+      "image": "Project2.png"
     },
     {
         "title": "QuizMasterJS-Timedcodingquiz",
@@ -17,25 +17,32 @@
         "githubLink": "https://github.com/rhipsime/QuizMasterJS-Timedcodingquiz",
         "image": "Project3.png"
       }, {
-        "title": "Project 2",
-        "deployedLink": "https://example.com/project2",
-        "githubLink": "https://github.com/user/project2",
-        "image": "project2.png"
+        "title": "TimeCraftPro-DailyPlannerApp",
+        "deployedLink": "https://rhipsime.github.io/TimeCraftPro-DailyPlannerApp/",
+        "githubLink": "https://github.com/rhipsime/TimeCraftPro-DailyPlannerApp",
+        "image": "Project4.png"
       }, {
-        "title": "Project 2",
-        "deployedLink": "https://example.com/project2",
-        "githubLink": "https://github.com/user/project2",
-        "image": "project2.png"
+        "title": "Weather-wanderer-dashboard",
+        "deployedLink": "https://rhipsime.github.io/weather-wanderer-dashboard/",
+        "githubLink": "https://github.com/rhipsime/weather-wanderer-dashboard",
+        "image": "Project5.png"
       }, {
-        "title": "Project 2",
-        "deployedLink": "https://example.com/project2",
-        "githubLink": "https://github.com/user/project2",
-        "image": "project2.png"
-      }, {
-        "title": "Project 2",
-        "deployedLink": "https://example.com/project2",
-        "githubLink": "https://github.com/user/project2",
-        "image": "project2.png"
+        "title": "README-Generator-Pro",
+        "deployedLink": "https://app.screencastify.com/v3/watch/5A9gr1gwNO90vBHE2d7a",
+        "githubLink": "https://github.com/rhipsime/README-Generator-Pro",
+        "image": "project6.png"
+      }, 
+      {
+        "title": "DreamTeam-ProfileGenerator",
+        "deployedLink": " file:///Users/arie/DreamTeam-ProfileGenerator/output/team.html",
+        "githubLink": "https://github.com/rhipsime/DreamTeam-ProfileGenerator",
+        "image": "project7.png"
+      },
+      {
+        "title": "Group Project - CariLOL",
+        "deployedLink": "https://rhipsime.github.io/cariLOL/",
+        "githubLink": "https://github.com/rhipsime/cariLOL",
+        "image": "project8.png"
       }
   ]
   
