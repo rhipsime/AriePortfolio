@@ -1,0 +1,41 @@
+[
+    {
+      "title": "Console-Finances",
+      "deployedLink": "https://github.com/rhipsime/Console-Finances",
+      "githubLink": "https://github.com/rhipsime/Console-Finances",
+      "image": "/Project Assets/Project1.png"
+    },
+    {
+      "title": "CipherCraft-PasswordGenerator",
+      "deployedLink": "https://rhipsime.github.io/CipherCraft-PasswordGenerator/",
+      "githubLink": "https://github.com/rhipsime/CipherCraft-PasswordGenerator",
+      "image": "project2.png"
+    },
+    {
+        "title": "Project 2",
+        "deployedLink": "https://example.com/project2",
+        "githubLink": "https://github.com/user/project2",
+        "image": "project2.png"
+      }, {
+        "title": "Project 2",
+        "deployedLink": "https://example.com/project2",
+        "githubLink": "https://github.com/user/project2",
+        "image": "project2.png"
+      }, {
+        "title": "Project 2",
+        "deployedLink": "https://example.com/project2",
+        "githubLink": "https://github.com/user/project2",
+        "image": "project2.png"
+      }, {
+        "title": "Project 2",
+        "deployedLink": "https://example.com/project2",
+        "githubLink": "https://github.com/user/project2",
+        "image": "project2.png"
+      }, {
+        "title": "Project 2",
+        "deployedLink": "https://example.com/project2",
+        "githubLink": "https://github.com/user/project2",
+        "image": "project2.png"
+      }
+  ]
+  
