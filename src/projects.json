@@ -3,46 +3,46 @@
       "title": "Console-Finances",
       "deployedLink": "https://github.com/rhipsime/Console-Finances",
       "githubLink": "https://github.com/rhipsime/Console-Finances",
-      "image": "Project1.png"
+      "image": "./Assets/Project1.png"
     },
     {
       "title": "CipherCraft-PasswordGenerator",
       "deployedLink": "https://rhipsime.github.io/CipherCraft-PasswordGenerator/",
       "githubLink": "https://github.com/rhipsime/CipherCraft-PasswordGenerator",
-      "image": "Project2.png"
+      "image": "./Assets/Project2.png"
     },
     {
         "title": "QuizMasterJS-Timedcodingquiz",
         "deployedLink": "https://rhipsime.github.io/QuizMasterJS-Timedcodingquiz/",
         "githubLink": "https://github.com/rhipsime/QuizMasterJS-Timedcodingquiz",
-        "image": "Project3.png"
+        "image": "./Assets/Project3.png"
       }, {
         "title": "TimeCraftPro-DailyPlannerApp",
         "deployedLink": "https://rhipsime.github.io/TimeCraftPro-DailyPlannerApp/",
         "githubLink": "https://github.com/rhipsime/TimeCraftPro-DailyPlannerApp",
-        "image": "Project4.png"
+        "image": "./Assets/Project4.png"
       }, {
         "title": "Weather-wanderer-dashboard",
         "deployedLink": "https://rhipsime.github.io/weather-wanderer-dashboard/",
         "githubLink": "https://github.com/rhipsime/weather-wanderer-dashboard",
-        "image": "Project5.png"
+        "image": "./Assets/Project5.png"
       }, {
         "title": "README-Generator-Pro",
         "deployedLink": "https://app.screencastify.com/v3/watch/5A9gr1gwNO90vBHE2d7a",
         "githubLink": "https://github.com/rhipsime/README-Generator-Pro",
-        "image": "project6.png"
+        "image": "./Assets/Project6.png"
       }, 
       {
         "title": "DreamTeam-ProfileGenerator",
         "deployedLink": " file:///Users/arie/DreamTeam-ProfileGenerator/output/team.html",
         "githubLink": "https://github.com/rhipsime/DreamTeam-ProfileGenerator",
-        "image": "project7.png"
+        "image": "-"
       },
       {
         "title": "Group Project - CariLOL",
         "deployedLink": "https://rhipsime.github.io/cariLOL/",
         "githubLink": "https://github.com/rhipsime/cariLOL",
-        "image": "project8.png"
+        "image": "./Assets/Project8.png"
       }
   ]
   
