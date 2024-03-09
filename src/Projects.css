@@ -1,40 +1,39 @@
+.project-container {
+    border: 1px solid #000; /* Add a solid black border around each project */
+    border-radius: 5px; /* Add rounded corners to the project containers */
+    padding: 20px; /* Add padding inside each project container */
+    margin-bottom: 20px; /* Add margin between project containers */
+}
+
 .project img {
     width: 200px;
     height: 200px;
     object-fit: cover; /* Crop the image to cover the specified dimensions */
-  }
-  .project a {
-    display: inline-block;
+}
+
+.project a {
+    display: block; /* Make the links block-level elements */
     padding: 10px 20px;
     background-color: #ff7ead; /* Button background color */
     color: #212529; /* Button text color */
+    text-align: center; /* Center align text */
     text-decoration: none; /* Remove underline */
     border-radius: 5px; /* Rounded corners */
-  }
-  
-  .project a:hover {
+    margin-top: 10px; /* Add spacing between buttons and text */
+}
+
+.project a:hover {
     background-color: #A2D2FF; /* Darker background color on hover */
-  }
+}
 
-  .button-container {
-    display: flex; /* Use flexbox layout */
-    flex-direction: column; /* Align buttons vertically */
-    align-items: center; /* Center align buttons horizontally */
-  }
-  
-  .button {
-    margin: 5px; /* Add spacing between buttons */
-  }
-
-  body {
+body {
     background-color: #ffc8dd; /* Set the background color of the body */
     margin: 0; /* Remove default margin */
     padding: 0; /* Remove default padding */
-  }
-  
-  .projects-container {
+}
+
+.projects-container {
     padding: 20px; /* Add padding for spacing */
-  }
-  
-  
+}
+
   
