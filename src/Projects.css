@@ -6,10 +6,12 @@
 }
 
 .project img {
-    width: 200px;
-    height: 200px;
+    width: 100%; /* Set the width to 100% of the parent container */
+    height: auto; /* Automatically adjust the height to maintain aspect ratio */
+    max-height: calc(100% - 50px); /* Limit the maximum height to accommodate buttons */
     object-fit: cover; /* Crop the image to cover the specified dimensions */
 }
+
 
 .project a {
     display: block; /* Make the links block-level elements */
@@ -33,7 +35,11 @@ body {
 }
 
 .projects-container {
-    padding: 20px; /* Add padding for spacing */
+    padding: 10px; /* Add padding for spacing */
 }
 
+body {
+    font-family: 'Poppins', sans-serif;
+  }
+  
   
