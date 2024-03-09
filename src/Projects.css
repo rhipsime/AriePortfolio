@@ -1,0 +1,40 @@
+.project img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover; /* Crop the image to cover the specified dimensions */
+  }
+  .project a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ff7ead; /* Button background color */
+    color: #212529; /* Button text color */
+    text-decoration: none; /* Remove underline */
+    border-radius: 5px; /* Rounded corners */
+  }
+  
+  .project a:hover {
+    background-color: #A2D2FF; /* Darker background color on hover */
+  }
+
+  .button-container {
+    display: flex; /* Use flexbox layout */
+    flex-direction: column; /* Align buttons vertically */
+    align-items: center; /* Center align buttons horizontally */
+  }
+  
+  .button {
+    margin: 5px; /* Add spacing between buttons */
+  }
+
+  body {
+    background-color: #ffc8dd; /* Set the background color of the body */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+  }
+  
+  .projects-container {
+    padding: 20px; /* Add padding for spacing */
+  }
+  
+  
+  

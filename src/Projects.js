@@ -2,11 +2,12 @@ import React from 'react';
 import Project from './Project'; // Import the Project component
 import projectsData from './projects.json'; // Import the project data
 import { Container, Row, Col } from 'react-bootstrap';
+import './Projects.css'; // Import the CSS file
 
 
 const Projects = () => {
   return (
-    <Container>
+    <Container className="projects-container"> 
       <Row xs={1} md={2} lg={4} className="g-4">
         {projectsData.map((project, index) => (
           <Col key={index}>
