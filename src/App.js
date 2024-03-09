@@ -12,7 +12,7 @@ function App() {
         <Header /> {/* Render the Header component */}
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/projects" element={<Projects />} />
+          <Route path="/Projects" element={<Projects />} />
           <Route path="/contact" element={<Contact />} />
         </Routes>
       </div>
