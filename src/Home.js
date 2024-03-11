@@ -29,7 +29,7 @@ const Home = () => {
   return (
     <div style={containerStyle}>
       <h1 style={headingStyle}>Arie David</h1>
-      <img src="./Assets/profilepic.png" alt="Arie David" style={imgStyle} />
+      <img src="" alt="Arie David" style={imgStyle} />
       <p style={paragraphStyle}>London-based aspiring web developer and UX/UI enthusiast. </p>
       <p style={paragraphStyle}>Welcome to my portfolio site</p>
     </div>

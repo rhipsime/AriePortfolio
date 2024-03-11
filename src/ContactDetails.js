@@ -11,9 +11,9 @@ const ContactDetails = () => {
 
   return (
     <section className="contact-details">
-      <h2>Contact Details</h2>
+      <h2>Let's Connect</h2>
       <div className={`card ${revealed ? 'revealed' : ''}`}>
-        <h3>Let's Connect</h3>
+        <h3>Contact Details</h3>
         <p>Click for more</p>
         {/* Show contact details if revealed, otherwise show the reveal button */}
         {revealed ? (
@@ -22,7 +22,7 @@ const ContactDetails = () => {
             <p>LinkedIn: https://www.linkedin.com/in/arie-david-/</p>
             <p>Email: ariedavid98@gmail.com</p>
             <p>Phone: 07123456</p>
-            <p>CV: <a href="path_to_cv.pdf">Download</a></p>
+            <p>CV: <a href="https://docs.google.com/document/d/1gkahlug64ZRGqZ9SsWpJFGXpq02kXCHDqGMM4xnDC0o/edit" target="_blank" rel="noopener noreferrer">Download</a></p>
           </div>
         ) : (
           <button className="reveal-btn" onClick={toggleRevealed}>Reveal</button>
