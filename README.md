@@ -27,7 +27,7 @@ This portfolio website serves as a platform to showcase my professional work, sk
 
 ## Screenshots
 
-Include screenshots or GIFs of your portfolio website here. You can provide visuals of different sections, project showcases, or overall layout.
+.
 
 ## Technologies Used
 
@@ -41,7 +41,7 @@ Include screenshots or GIFs of your portfolio website here. You can provide visu
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-portfolio.git
+   git clone https://github.com/rhipsime/AriePortfolio
    ```
 
 2. **Navigate to the project directory:**
