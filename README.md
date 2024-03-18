@@ -27,11 +27,11 @@ This portfolio website serves as a platform to showcase my professional work, sk
 
 ## Screenshots
 
--  ![Screenshot 1](READMEAssets/ss1.png)
--  ![Screenshot 2](READMEAssets/ss2.png)
--  ![Screenshot 3](READMEAssets/ss3.png)
--  ![Screenshot 4](READMEAssets/ss4.png) 
--  ![Screenshot 5](READMEAssets/ss5.png)
+-  ![Screenshot 1](./READMEAssets/ss1.png)
+-  ![Screenshot 2](./READMEAssets/ss2.png)
+-  ![Screenshot 3](./READMEAssets/ss3.png)
+-  ![Screenshot 4](./READMEAssets/ss4.png) 
+-  ![Screenshot 5](./READMEAssets/ss5.png)
 
 ## Technologies Used
 
