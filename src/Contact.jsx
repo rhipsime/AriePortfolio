@@ -1,4 +1,4 @@
-// Contact.js
+// Contact.jsx
 import React from 'react';
 import ContactDetails from './ContactDetails';
 import ContactForm from './ContactForm';
